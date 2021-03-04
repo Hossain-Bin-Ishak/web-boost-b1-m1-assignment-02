@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.image-table img{
+    width: 150px;
+    height: 80;
+    text-align: center;
+    border-radius: 5px;
+}
+
+table {
+    padding: 5px;
+    border: 2px solid rgb(23, 56, 165);
+    margin: 0 auto;
+    border-radius: 5px;
+    border-spacing: 15px 15px;
+    background-color: rgba(0, 255, 221, 0.226);
+
+}
+
+table, td{
+    padding: 5px 5px 0px 5px;
+    border: 2px solid rgb(255, 136, 0);
+    border-radius: 5px;
+      }
+
+.image-table h2{
+    text-align: center;
+    margin: 20px;
+}
+
+fieldset{
+    padding-bottom: 30px;
+   
+}
+
+fieldset legend{
+    text-align: center;
+}
